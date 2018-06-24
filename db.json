@@ -1,3 +1,7 @@
 {
-  "message": "hello world!"
+  "filmStatuses" : [
+    {
+      "message": "hello world!"
+    }
+  ]
 }
