@@ -1,6 +1,7 @@
 {
   "filmStatuses" : [
     {
+      "id": 1
       "message": "hello world!"
     }
   ]
