@@ -10,8 +10,8 @@
                   }, 
                   {
                     "id": "1",
-                    "label": "Query ThreatConnect",
-                  },
+                    "label": "Query ThreatConnect"
+                  }
               ],
       "links" : [
                   {
