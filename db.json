@@ -2,11 +2,11 @@
   "filmStatuses" : [
     {
       "id": 1,
-      "message": "hello world!"
+      "frameId" : 2
     },
     {
       "id": 2,
-      "message": "hello world2!"
+      "frameId": 3
     }
   ],
   "films" : [
