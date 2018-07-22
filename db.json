@@ -8,5 +8,17 @@
       "id": 2,
       "message": "hello world2!"
     }
+  ],
+  "films" : [
+    {
+      "id" : 1,
+      "name" : "bla bla bla",
+      "scheme" : "bla bla scheme"
+    },
+    {
+      "id" : 2,
+      "name" : "bla bla bla 2",
+      "scheme" : "bla bla scheme 2"
+    }
   ]
 }
