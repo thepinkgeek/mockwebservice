@@ -12,7 +12,7 @@
                   {
                     "id": "1",
                     "label": "Query ThreatConnect",
-                    "shape": "circle"
+                    "shape": "rectangle"
                   }
               ],
       "links" : [
