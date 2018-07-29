@@ -6,11 +6,13 @@
       "nodes" : [
                   {
                     "id": "start",
-                    "label": "start"
+                    "label": "start",
+                    "shape": "circle"
                   }, 
                   {
                     "id": "1",
-                    "label": "Query ThreatConnect"
+                    "label": "Query ThreatConnect",
+                    "shape": "circle"
                   }
               ],
       "links" : [
