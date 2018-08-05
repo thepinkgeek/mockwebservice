@@ -27,7 +27,7 @@
                     "label": "links to"
                   },
                   {
-                    "source": "1",
+                    "source": "start",
                     "target": "2",
                     "label": "links to"
                   }
