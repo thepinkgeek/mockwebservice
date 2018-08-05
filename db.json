@@ -13,14 +13,24 @@
                     "id": "1",
                     "label": "Query ThreatConnect",
                     "shape": "rectangle"
-                  }
+                  },
+                  {
+                    "id": "2",
+                    "label": "hello!",
+                    "shape": "rectangle"
+                  },
               ],
       "links" : [
                   {
                     "source": "start",
                     "target": "1",
                     "label": "links to"
-                  }
+                  },
+                  {
+                    "source": "1",
+                    "target": "2",
+                    "label": "links to"
+                  },
                 ]
     }
   ],
