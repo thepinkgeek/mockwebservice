@@ -18,7 +18,7 @@
                     "id": "2",
                     "label": "hello!",
                     "shape": "rectangle"
-                  },
+                  }
               ],
       "links" : [
                   {
@@ -30,7 +30,7 @@
                     "source": "1",
                     "target": "2",
                     "label": "links to"
-                  },
+                  }
                 ]
     }
   ],
