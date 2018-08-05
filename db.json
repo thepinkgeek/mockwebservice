@@ -18,6 +18,11 @@
                     "id": "2",
                     "label": "hello!",
                     "shape": "rounded-rectangle"
+                  },
+                  {
+                    "id": "3",
+                    "label": "hello!",
+                    "shape": "parallelogram"
                   }
               ],
       "links" : [
@@ -29,6 +34,11 @@
                   {
                     "source": "start",
                     "target": "2",
+                    "label": "links to"
+                  },
+                  {
+                    "source": "start",
+                    "target": "3",
                     "label": "links to"
                   }
                 ]
