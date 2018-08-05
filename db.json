@@ -7,7 +7,7 @@
                   {
                     "id": "start",
                     "label": "start",
-                    "shape": "parallelogram"
+                    "shape": "circle"
                   }, 
                   {
                     "id": "1",
@@ -22,7 +22,12 @@
                   {
                     "id": "3",
                     "label": "hello!",
-                    "shape": "circle"
+                    "shape": "parallelogram"
+                  },
+                  {
+                    "id": "4",
+                    "label": "hello!",
+                    "shape": "diamond"
                   }
               ],
       "links" : [
@@ -39,6 +44,11 @@
                   {
                     "source": "start",
                     "target": "3",
+                    "label": "links to"
+                  },
+                  {
+                    "source": "start",
+                    "target": "4",
                     "label": "links to"
                   }
                 ]
