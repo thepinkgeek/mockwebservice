@@ -17,7 +17,7 @@
                   {
                     "id": "2",
                     "label": "hello!",
-                    "shape": "rectangle"
+                    "shape": "rounded-rectangle"
                   }
               ],
       "links" : [
