@@ -7,7 +7,7 @@
                   {
                     "id": "start",
                     "label": "start",
-                    "shape": "circle"
+                    "shape": "parallelogram"
                   }, 
                   {
                     "id": "1",
@@ -22,7 +22,7 @@
                   {
                     "id": "3",
                     "label": "hello!",
-                    "shape": "parallelogram"
+                    "shape": "circle"
                   }
               ],
       "links" : [
