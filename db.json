@@ -2,6 +2,7 @@
   "filmStatuses" : [
     {
       "id": 1,
+      "filmId" : 1,
       "frameId" : 2,
       "nodes" : [
                   {
@@ -54,7 +55,8 @@
                 ]
     },
     {
-      "id": 1,
+      "id": 2,
+      "filmId": 1,
       "frameId" : 2,
       "nodes" : [
                   {
